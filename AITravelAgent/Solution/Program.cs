@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Configuration;
+// https://learn.microsoft.com/en-us/training/modules/guided-project-create-ai-travel-agent/4-exercise-create-travel-itenerary
+
+using Microsoft.Extensions.Configuration;
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
